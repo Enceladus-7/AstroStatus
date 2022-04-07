@@ -12,5 +12,5 @@ def distance(object1, object2):
 
 print("Welcome")
 object1 = input("Enter your first Solar body:") + ' BARYCENTER'
-object2 = input("Enter your second Solar body:") + ' EBARYCENTER'
+object2 = input("Enter your second Solar body:") + ' BARYCENTER'
 print(distance(object1, object2))
